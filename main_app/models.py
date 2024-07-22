@@ -23,7 +23,7 @@ MOVIES = (
     (7, "Monty Python and the Holy Grail")
 )
 
-AVAIL = ((0, "No"), (1, "Yes"))
+AVAIL = ((0, "Booked"), (1, "Available"))
 
 # Create your models here.
 class Booking(models.Model):
