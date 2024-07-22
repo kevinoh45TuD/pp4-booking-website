@@ -1,0 +1,1 @@
+web: gunicorn classics_project.wsgi
