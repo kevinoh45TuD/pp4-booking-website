@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-ojz=+s^_w+p@4+a7b1z&7u35h(a=76ly0#9z9^475fhe%e#y8g
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['pp4-classics-cuisine.herokuapp.com']
+ALLOWED_HOSTS = ['.herokuapp.com']
 
 
 # Application definition
