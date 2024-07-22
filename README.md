@@ -20,7 +20,11 @@ Below I will outline key aspects of the project and its creation.
     - Booking
     - User Profile
 3. [Technologies Used](#technologies-used)
-    - 
+    - Python
+    - Django
+    - Heroku
+    - HTML
+    - Packages
 4. [Testing](#testing-1)
     - 
 5. [Deployment](#deployment)
@@ -99,34 +103,34 @@ Here the user will see their details and current bookings.
 ### Python
 
 The following python modules were used:
-    - asgiref==3.8.1
-    - dj-database-url==2.2.0
-    - Django==4.2.14
-    - gunicorn==22.0.0
-    - packaging==24.1
-    - psycopg2==2.9.9
-    - sqlparse==0.5.1
-    - typing-extensions==4.12.2
-    - tzdata==2024.1
-    - whitenoise==6.7.0
+- asgiref==3.8.1
+- dj-database-url==2.2.0
+- Django==4.2.14
+- gunicorn==22.0.0
+- packaging==24.1
+- psycopg2==2.9.9
+- sqlparse==0.5.1
+- typing-extensions==4.12.2
+- tzdata==2024.1
+- whitenoise==6.7.0
 
 ### Django
 
-    - Django was used as the main framework for this project.
+- Django was used as the main framework for this project.
 
 ### Heroku
 
-    - Heroku was used to deploy this website online. [Heroku](https://www.heroku.com)
+- Heroku was used to deploy this website online. [Heroku](https://www.heroku.com)
 
 ### HTML
 
-    - Html was used as the base language for the site templates.
+- Html was used as the base language for the site templates.
 
 ### Packages
 
-    - VS Code was used to develop the code for this site.
-    - GitHub was used for version control. [Github](https://github.com)
-    - Balsamiq was used to create wireframes.
+- VS Code was used to develop the code for this site.
+- GitHub was used for version control. [Github](https://github.com)
+- Balsamiq was used to create wireframes.
 
 ## Deployment
 
@@ -187,5 +191,3 @@ Steps are based on GitHub documentation related to forking repositories.
 ### Other
 
 - An article on GitHub was used to help with creating this README doc [Article](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
-- 
