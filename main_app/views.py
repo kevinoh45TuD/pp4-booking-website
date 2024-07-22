@@ -4,4 +4,5 @@ from .models import Movies
 
 # Create your views here.
 class MovieList(generic.ListView):
-    model = Movies
+    queryset = Movies.objects.all()
+    template_name = "movies_list.html"
